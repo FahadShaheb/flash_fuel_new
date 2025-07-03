@@ -1,0 +1,38 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+*.lock
+*.log
+
+# iOS
+ios/Flutter/
+ios/Pods/
+ios/Runner.xcworkspace
+ios/.symlinks/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Others
+*.apk
+*.ipa
+*.iml
+.idea/
+*.DS_Store
+*.class
+*.jar
+*.war
+*.zip
+*.so
+*.exe
+*.dll
+*.tmp
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
